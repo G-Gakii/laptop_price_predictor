@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda environment
+.conda/
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
