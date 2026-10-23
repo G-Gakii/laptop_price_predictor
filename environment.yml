@@ -32,6 +32,7 @@ dependencies:
       - babel==2.18.0
       - beautifulsoup4==4.15.0
       - bleach==6.4.0
+      - category-encoders==2.11.1
       - certifi==2026.7.22
       - cffi==2.1.1
       - charset-normalizer==3.5.2

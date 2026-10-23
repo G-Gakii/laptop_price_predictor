@@ -19,7 +19,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 18,Apple,MacBook Pro,Ultrabook,16,2858.0,5.18,IPS Panel Retina Display,Intel,Core i7,2.9,512.0,0.0,0.0,0.0,1.83,AMD,Radeon Pro 560,macOS
 19,Lenovo,IdeaPad 320-15IKB,Notebook,8,499.0,2.07,Full HD,Intel,Core i3 7100U,2.4,0.0,1024.0,0.0,0.0,2.2,Nvidia,GeForce 940MX,No OS
 20,Dell,XPS 13,Ultrabook,8,979.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i5 8250U,1.6,128.0,0.0,0.0,0.0,1.22,Intel,UHD Graphics 620,Windows
-21,Asus,Vivobook E200HA,Netbook,2,191.9,1.05,,Intel,Atom x5-Z8350,1.44,0.0,0.0,32.0,0.0,0.98,Intel,HD Graphics 400,Windows
 22,Lenovo,Legion Y520-15IKBN,Gaming,8,999.0,2.07,IPS Panel Full HD,Intel,Core i5 7300HQ,2.5,128.0,1024.0,0.0,0.0,2.5,Nvidia,GeForce GTX 1050,Windows
 23,HP,255 G6,Notebook,4,258.0,1.05,,AMD,E-Series E2-9000e,1.5,0.0,500.0,0.0,0.0,1.86,AMD,Radeon R2,No OS
 24,Dell,Inspiron 5379,2 in 1 Convertible,8,819.0,2.07,Full HD / Touchscreen,Intel,Core i5 8250U,1.6,256.0,0.0,0.0,0.0,1.62,Intel,UHD Graphics 620,Windows
@@ -30,7 +29,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 29,Dell,Latitude 5590,Ultrabook,8,1298.0,2.07,Full HD,Intel,Core i7 8650U,1.9,512.0,0.0,0.0,0.0,1.88,Intel,UHD Graphics 620,Windows
 30,HP,ProBook 470,Notebook,8,896.0,2.07,Full HD,Intel,Core i5 8250U,1.6,0.0,1024.0,0.0,0.0,2.5,Nvidia,GeForce 930MX,Windows
 31,Chuwi,"LapBook 15.6""",Notebook,4,244.99,2.07,Full HD,Intel,Atom x5-Z8300,1.44,0.0,0.0,64.0,0.0,1.89,Intel,HD Graphics,Windows
-32,Asus,E402WA-GA010T,Notebook,2,199.0,1.05,,AMD,E-Series E2-6110,1.5,0.0,0.0,32.0,0.0,1.65,AMD,Radeon R2,Windows
 33,HP,17-ak001nv,Notebook,4,439.0,2.07,Full HD,AMD,A6-Series 9220,2.5,0.0,500.0,0.0,0.0,2.71,AMD,Radeon 530,Windows
 34,Dell,XPS 13,Ultrabook,16,1869.0,5.76,Touchscreen / Quad HD+,Intel,Core i7 8550U,1.8,512.0,0.0,0.0,0.0,1.2,Intel,UHD Graphics 620,Windows
 35,Apple,MacBook Air,Ultrabook,8,998.0,1.3,,Intel,Core i5,1.6,0.0,0.0,256.0,0.0,1.35,Intel,HD Graphics 6000,macOS
@@ -195,7 +193,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 197,Lenovo,IdeaPad 320-17IKBR,Notebook,8,698.0,1.44,,Intel,Core i5 8250U,1.6,256.0,0.0,0.0,0.0,2.8,Nvidia,GeForce MX150,No OS
 198,Dell,Inspiron 5379,2 in 1 Convertible,8,839.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 8550U,1.8,0.0,1024.0,0.0,0.0,1.62,Intel,UHD Graphics 620,Windows
 199,HP,ProBook 470,Notebook,8,914.0,2.07,IPS Panel Full HD,Intel,Core i5 8250U,1.6,0.0,1024.0,0.0,0.0,2.5,Nvidia,GeForce 930MX,Windows
-200,Razer,Blade Pro,Gaming,32,6099.0,8.29,4K Ultra HD / Touchscreen,Intel,Core i7 7820HK,2.9,1024.0,0.0,0.0,0.0,3.49,Nvidia,GeForce GTX 1080,Windows
 201,HP,ProBook 430,Notebook,8,959.0,2.07,Full HD,Intel,Core i5 8250U,1.6,512.0,0.0,0.0,0.0,1.49,Intel,UHD Graphics 620,Windows
 202,HP,Omen 17-W295,Gaming,16,1379.0,2.07,IPS Panel Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,3.35,Nvidia,GeForce GTX 1050,Windows
 203,HP,Probook 470,Notebook,8,1045.0,2.07,Full HD,Intel,Core i7 8550U,1.8,256.0,0.0,0.0,0.0,2.5,Nvidia,GeForce 930MX,Windows
@@ -237,7 +234,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 240,Dell,Inspiron 5567,Notebook,16,899.0,2.07,Full HD,Intel,Core i7 7500U,2.7,256.0,0.0,0.0,0.0,2.36,AMD,Radeon R7 M445,Linux
 241,Acer,Aspire A315-51,Notebook,4,390.0,1.05,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,2.1,Intel,HD Graphics 520,Linux
 242,Asus,X555QG-DM242T,Notebook,4,575.0,2.07,Full HD,AMD,A10-Series A10-9620P,2.5,128.0,1024.0,0.0,0.0,2.2,AMD,Radeon R5 M430,Windows
-243,Asus,ROG G703VI-E5062T,Gaming,32,3890.0,2.07,Full HD,Intel,Core i7 7820HK,2.9,512.0,1024.0,0.0,0.0,4.7,Nvidia,GeForce GTX 1080,Windows
 244,Acer,Nitro AN515-51,Gaming,8,846.0,2.07,IPS Panel Full HD,Intel,Core i5 7300HQ,2.5,256.0,0.0,0.0,0.0,2.5,Nvidia,GeForce GTX 1050,Windows
 245,Lenovo,IdeaPad 320-15ISK,Notebook,8,589.0,1.05,,Intel,Core i3 6006U,2.0,128.0,0.0,0.0,0.0,2.2,Intel,HD Graphics 520,Windows
 246,Asus,VivoBook Pro,Notebook,8,1145.0,2.07,Full HD,Intel,Core i7 8550U,1.8,128.0,1024.0,0.0,0.0,2.1,Nvidia,GeForce 150MX,Windows
@@ -289,7 +285,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 292,Asus,VivoBook S15,Ultrabook,8,977.0,2.07,Full HD,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.7,Nvidia,GeForce 940MX,Windows
 293,Lenovo,Legion Y520-15IKBN,Gaming,16,1179.0,2.07,IPS Panel Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,2.5,Nvidia,GeForce GTX 1050 Ti,Windows
 294,Lenovo,IdeaPad 320-15IKB,Notebook,8,659.01,2.07,Full HD,Intel,Core i7 7500U,2.7,0.0,1024.0,0.0,0.0,2.2,Nvidia,GeForce 940MX,No OS
-295,Acer,Chromebook C910-C2ST,Notebook,2,199.0,1.05,,Intel,Celeron Dual Core 3205U,1.5,16.0,0.0,0.0,0.0,2.19,Intel,HD Graphics,Chrome OS
 296,Asus,FX753VD-GC071T,Gaming,8,1187.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,0.0,1024.0,0.0,0.0,3.0,Nvidia,GeForce GTX 1050,Windows
 297,HP,17-BS037cl,Notebook,8,489.0,1.44,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,2.54,Intel,HD Graphics 520,Windows
 298,Dell,XPS 15,Notebook,8,1829.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,256.0,0.0,0.0,0.0,2.0,Nvidia,GeForce GTX 1050,Windows
@@ -554,7 +549,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 559,Dell,Alienware 17,Gaming,16,2699.0,2.07,IPS Panel Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,4.42,Nvidia,GeForce GTX 1070,Windows
 560,HP,17-X047na,Notebook,8,544.15,1.44,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,2.65,Intel,HD Graphics 520,Windows
 561,HP,ProBook 470,Notebook,8,1280.0,2.07,Full HD,Intel,Core i7 7500U,2.7,0.0,1024.0,0.0,0.0,2.63,Nvidia,GeForce 930MX,Windows
-562,Asus,A541NA-GO342,Notebook,4,224.0,1.05,,Intel,Celeron Dual Core N3350,1.1,0.0,500.0,0.0,0.0,2.0,Intel,HD Graphics 500,Linux
 563,Mediacom,SmartBook 130,Notebook,4,255.0,2.07,IPS Panel Full HD,Intel,Atom x5-Z8350,1.44,0.0,0.0,32.0,0.0,1.35,Intel,HD Graphics,Windows
 564,Lenovo,IdeaPad 320-17IKB,Notebook,6,949.0,1.44,,Intel,Core i7 7500U,2.7,128.0,1024.0,0.0,0.0,2.8,Nvidia,GeForce 940MX,Windows
 565,HP,15-bw007nv,Notebook,6,568.9,2.07,IPS Panel Full HD,AMD,A10-Series A10-9620P,2.5,128.0,0.0,0.0,0.0,1.91,AMD,Radeon 530,Windows
@@ -609,7 +603,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 614,Lenovo,IdeaPad 310-15IKB,Notebook,6,564.0,2.07,Full HD,Intel,Core i5 7200U,2.5,0.0,1024.0,0.0,0.0,2.4,Intel,HD Graphics 620,Windows
 615,Lenovo,Yoga 720-15IKB,2 in 1 Convertible,8,1299.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 7700HQ,2.8,256.0,0.0,0.0,0.0,2.0,Intel,HD Graphics 630,Windows
 616,Acer,Swift SF114-31-P5HY,Notebook,4,349.0,1.05,,Intel,Pentium Quad Core N3710,1.6,0.0,0.0,128.0,0.0,1.6,Intel,HD Graphics 405,Windows
-617,Lenovo,Thinkpad P51,Notebook,32,4899.0,8.29,IPS Panel 4K Ultra HD,Intel,Xeon E3-1535M v6,3.1,1024.0,0.0,0.0,0.0,2.5,Nvidia,Quadro M2200M,Windows
 618,Dell,Inspiron 7559,Gaming,16,879.01,2.07,Full HD,Intel,Core i7 6700HQ,2.6,0.0,1024.0,0.0,0.0,2.59,Nvidia,GeForce GTX 960<U+039C>,Windows
 619,Dell,Vostro 3568,Notebook,4,443.9,1.05,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,2.18,Intel,HD Graphics 520,Linux
 620,Dell,Inspiron 3567,Notebook,4,359.0,1.05,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,2.25,Intel,HD Graphics 520,Linux
@@ -722,7 +715,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 728,Lenovo,ThinkPad X1,Ultrabook,8,1686.64,3.69,IPS Panel Quad HD+,Intel,Core i7 6500U,2.5,512.0,0.0,0.0,0.0,1.17,Intel,HD Graphics 520,Windows
 729,HP,Pavilion X360,2 in 1 Convertible,8,836.6,1.05,IPS Panel Touchscreen,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.58,Intel,HD Graphics 620,Windows
 730,Lenovo,ThinkPad T470s,Ultrabook,8,1499.0,2.07,IPS Panel Full HD,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.32,Intel,HD Graphics 620,Windows
-731,Dell,Alienware 17,Gaming,32,3659.4,8.29,4K Ultra HD,Intel,Core i7 7700HQ,2.8,1024.0,1024.0,0.0,0.0,4.36,Nvidia,GeForce GTX 1070,Windows
 732,MSI,GL72M 7REX,Gaming,8,1348.48,2.07,Full HD,Intel,Core i7 7700HQ,2.8,128.0,1024.0,0.0,0.0,2.7,Nvidia,GeForce GTX 1050 Ti,Windows
 733,Lenovo,V310-15IKB,Notebook,4,489.9,1.05,,Intel,Core i5 7200U,2.5,0.0,1024.0,0.0,0.0,1.9,Intel,HD Graphics 620,No OS
 734,Dell,Inspiron 5570,Notebook,8,719.0,2.07,Full HD,Intel,Core i5 8250U,1.6,128.0,1024.0,0.0,0.0,2.2,AMD,Radeon 530,Windows
@@ -743,12 +735,10 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 749,Dell,Vostro 3568,Notebook,8,665.0,1.05,,Intel,Core i3 6006U,2.0,256.0,0.0,0.0,0.0,2.0,Intel,HD Graphics 520,Windows
 750,Toshiba,Tecra X40-D-10G,Notebook,8,1535.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.25,Intel,HD Graphics 620,Windows
 751,Lenovo,Flex 5,2 in 1 Convertible,8,999.0,2.07,Full HD / Touchscreen,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.7,Intel,HD Graphics 620,Windows
-752,Lenovo,Thinkpad P51s,Workstation,16,3299.0,8.29,IPS Panel 4K Ultra HD,Intel,Core i7 7600U,2.8,1024.0,0.0,0.0,0.0,2.5,Nvidia,Quadro M520M,Windows
 753,Acer,Chromebook 14,Notebook,2,330.0,1.05,,Intel,Celeron Dual Core N3060,1.6,0.0,0.0,32.0,0.0,1.68,Intel,HD Graphics 400,Chrome OS
 754,Samsung,Notebook 9,Ultrabook,16,1649.0,2.07,Full HD,Intel,Core i7 7500U,2.7,256.0,0.0,0.0,0.0,0.81,Intel,HD Graphics 620,Windows
 755,HP,250 G6,Notebook,8,539.0,2.07,Full HD,Intel,Core i3 6006U,2.0,256.0,0.0,0.0,0.0,1.86,Intel,HD Graphics 520,Windows
 757,Dell,Latitude 5480,Notebook,8,1126.71,1.05,,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.6,Intel,HD Graphics 620,Windows
-758,HP,Zbook 17,Workstation,16,4389.0,2.07,IPS Panel Full HD,Intel,Xeon E3-1535M v5,2.9,256.0,0.0,0.0,0.0,3.0,Nvidia,Quadro M2000M,Windows
 759,Lenovo,N23,Netbook,4,475.0,1.05,Touchscreen,Intel,Celeron Dual Core N3060,1.6,128.0,0.0,0.0,0.0,1.4,Intel,HD Graphics 400,Windows
 760,HP,EliteBook 850,Notebook,8,1900.0,2.07,Full HD,Intel,Core i5 6300U,2.4,256.0,0.0,0.0,0.0,1.84,Intel,HD Graphics 520,Windows
 761,Asus,X550VX-XX015D,Notebook,4,579.0,1.05,,Intel,Core i5 6300HQ,2.3,0.0,1024.0,0.0,0.0,2.45,Nvidia,GeForce GTX 950M,No OS
@@ -779,7 +769,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 786,Acer,Swift 3,Notebook,4,636.0,2.07,IPS Panel Full HD,Intel,Core i3 7100U,2.4,128.0,0.0,0.0,0.0,1.8,Intel,HD Graphics 620,Windows
 787,Razer,Blade Pro,Gaming,16,2899.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,512.0,0.0,0.0,0.0,1.95,Nvidia,GeForce GTX 1060,Windows
 788,Asus,Vivobook Max,Notebook,8,581.9,2.07,,Intel,Pentium Dual Core N4200,1.1,128.0,0.0,0.0,0.0,2.0,Intel,HD Graphics 505,Windows
-789,Dell,Alienware 17,Gaming,32,3588.8,2.07,IPS Panel Full HD,Intel,Core i7 7700HQ,2.8,1024.0,1024.0,0.0,0.0,4.42,Nvidia,GeForce GTX 1070M,Windows
 790,Asus,Rog G752VS-BA171T,Gaming,16,2350.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,256.0,1024.0,0.0,0.0,4.3,Nvidia,GeForce GTX 1070,Windows
 791,Toshiba,Tecra Z40-C-161,Ultrabook,16,1764.0,2.07,IPS Panel Full HD,Intel,Core i7 6600U,2.6,512.0,0.0,0.0,0.0,1.47,Nvidia,GeForce 930M,Windows
 792,Lenovo,IdeaPad 110-15IBR,Notebook,8,329.0,1.05,,Intel,Celeron Quad Core N3710,1.6,0.0,1024.0,0.0,0.0,2.2,Intel,HD Graphics 405,No OS
@@ -790,7 +779,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 797,Acer,Predator G9-793,Gaming,16,2299.0,2.07,IPS Panel Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,4.2,Nvidia,GeForce GTX 1060,Windows
 798,Dell,Inspiron 7567,Gaming,8,985.0,2.07,Full HD,Intel,Core i5 7300HQ,2.5,256.0,0.0,0.0,0.0,2.62,Nvidia,GeForce GTX 1050,Windows
 799,Asus,FX502VM-DM560T,Gaming,8,1339.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,128.0,1024.0,0.0,0.0,2.24,Nvidia,GeForce GTX1060,Windows
-800,Vero,K146,Notebook,4,202.9,2.07,,Intel,Celeron Dual Core N3350,1.1,0.0,0.0,32.0,0.0,1.22,Intel,HD Graphics 500,Windows
 801,Lenovo,ThinkPad Yoga,2 in 1 Convertible,8,1970.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 7500U,2.7,512.0,0.0,0.0,0.0,1.37,Intel,HD Graphics 620,Windows
 802,Lenovo,Yoga 510-15IKB,2 in 1 Convertible,8,959.0,2.07,Full HD / Touchscreen,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,2.08,AMD,Radeon R7 M460,Windows
 803,Apple,"MacBook 12""",Ultrabook,8,1165.0,3.32,IPS Panel Retina Display,Intel,Core M,1.2,0.0,0.0,512.0,0.0,0.92,Intel,HD Graphics 5300,macOS
@@ -829,7 +817,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 836,Dell,Latitude 3480,Notebook,4,585.0,1.05,,Intel,Core i3 6006U,2.0,0.0,500.0,0.0,0.0,1.76,Intel,HD Graphics 520,Windows
 837,Acer,Chromebook 11,Netbook,4,355.0,1.05,IPS Panel,Intel,Celeron Dual Core N3060,1.6,0.0,0.0,32.0,0.0,1.35,Intel,HD Graphics 400,Chrome OS
 838,Acer,Swift 3,Notebook,8,619.0,2.07,IPS Panel Full HD,Intel,Core i3 7100U,2.4,128.0,0.0,0.0,0.0,1.5,Intel,HD Graphics 620,Windows
-839,Razer,Blade Pro,Gaming,32,5499.0,8.29,4K Ultra HD / Touchscreen,Intel,Core i7 7820HK,2.9,512.0,0.0,0.0,0.0,3.49,Nvidia,GeForce GTX 1080,Windows
 840,Lenovo,Thinkpad X1,Ultrabook,16,2099.0,3.69,IPS Panel Quad HD+,Intel,Core i7 6600U,2.6,512.0,0.0,0.0,0.0,1.1,Intel,HD Graphics 520,Windows
 841,Asus,VivoBook Max,Notebook,4,519.0,2.07,Full HD,Intel,Core i5 7200U,2.5,0.0,1024.0,0.0,0.0,2.1,Nvidia,GeForce 920,Linux
 842,Lenovo,Thinkpad T460,Notebook,8,1186.0,2.07,Full HD,Intel,Core i5 6200U,2.3,256.0,0.0,0.0,0.0,1.7,Intel,HD Graphics 520,Windows
@@ -954,7 +941,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 966,Toshiba,Portege Z30-C-1CW,Notebook,8,1460.0,2.07,Full HD,Intel,Core i5 6200U,2.3,256.0,0.0,0.0,0.0,1.2,Intel,HD Graphics 520,Windows
 967,Asus,Chromebook Flip,2 in 1 Convertible,8,1159.0,2.07,Full HD,Intel,Core M M7-6Y75,1.2,0.0,0.0,64.0,0.0,1.2,Intel,HD Graphics 515,Chrome OS
 968,Lenovo,Thinkpad T460,Ultrabook,8,1488.99,2.07,IPS Panel Full HD,Intel,Core i7 6600U,2.6,256.0,0.0,0.0,0.0,1.7,Intel,HD Graphics 520,Windows
-969,Dell,Alienware 17,Gaming,16,3154.0,8.29,IPS Panel 4K Ultra HD,Intel,Core i7 7700HQ,2.8,512.0,1024.0,0.0,0.0,4.36,Nvidia,GeForce GTX 1070,Windows
 970,Dell,XPS 13,2 in 1 Convertible,8,1899.0,2.07,Full HD / Touchscreen,Intel,Core i5 7Y54,1.2,256.0,0.0,0.0,0.0,1.24,Intel,HD Graphics 615,Windows
 971,HP,ProBook x360,2 in 1 Convertible,4,775.0,1.05,Touchscreen,Intel,Pentium Quad Core N4200,1.1,256.0,0.0,0.0,0.0,1.45,Intel,HD Graphics 505,Windows
 972,Dell,XPS 13,Ultrabook,8,1268.0,5.76,Quad HD+,Intel,Core i7 6500U,2.5,256.0,0.0,0.0,0.0,1.3,Intel,HD Graphics 520,Windows
@@ -967,7 +953,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 979,Dell,Inspiron 3567,Notebook,4,465.62,1.05,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,2.25,AMD,Radeon R5 M430,Linux
 980,Dell,Latitude 5580,Notebook,4,825.0,1.05,,Intel,Core i5 7200U,2.5,0.0,500.0,0.0,0.0,1.9,Intel,HD Graphics 620,Windows
 981,HP,ProBook 450,Notebook,4,685.0,2.07,Full HD,Intel,Core i3 7100U,2.4,0.0,500.0,0.0,0.0,2.04,Intel,HD Graphics 620,Windows
-982,Dell,Alienware 17,Gaming,32,3149.0,2.07,IPS Panel Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,4.42,Nvidia,GeForce GTX 1070,Windows
 983,Lenovo,IdeaPad 310-15IKB,Notebook,6,695.0,2.07,Full HD,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,2.4,Nvidia,GeForce 920MX,Windows
 984,Dell,XPS 13,2 in 1 Convertible,16,1899.0,5.76,Quad HD+ / Touchscreen,Intel,Core i7 7Y75,1.3,512.0,0.0,0.0,0.0,1.22,Intel,HD Graphics 615,Windows
 985,Dell,Latitude E7470,Ultrabook,8,1962.98,3.69,Touchscreen,Intel,Core i7 6600U,2.6,256.0,0.0,0.0,0.0,1.5,Intel,HD Graphics 520,Windows
@@ -1040,7 +1025,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1052,Dell,Latitude E5570,Notebook,8,1062.95,2.07,Full HD,Intel,Core i5 6300U,2.4,256.0,0.0,0.0,0.0,2.09,Intel,HD Graphics 520,Windows
 1053,HP,ProBook 440,Notebook,8,1010.51,2.07,Full HD,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,1.64,Intel,HD Graphics 620,Windows
 1054,Lenovo,Yoga 500-15ISK,2 in 1 Convertible,4,847.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 6500U,2.5,256.0,0.0,0.0,0.0,1.8,Intel,HD Graphics 520,Windows
-1055,Vero,V142,Notebook,2,210.8,1.05,,Intel,Atom X5-Z8350,1.44,0.0,0.0,32.0,0.0,1.45,Intel,HD Graphics 400,Windows
 1056,Toshiba,Tecra A50-C-218,Notebook,16,1425.0,2.07,IPS Panel Full HD,Intel,Core i7 6500U,2.5,256.0,0.0,0.0,0.0,2.4,Nvidia,GeForce 930M,Windows
 1057,Lenovo,Thinkpad L560,Notebook,8,1049.6,2.07,Full HD,Intel,Core i5 6200U,2.3,256.0,0.0,0.0,0.0,2.3,Intel,HD Graphics 520,Windows
 1058,HP,EliteBook 840,Notebook,4,1000.0,2.07,Full HD,Intel,Core i5 6200U,2.3,0.0,500.0,0.0,0.0,1.54,Intel,HD Graphics 520,Windows
@@ -1065,7 +1049,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1077,Dell,Inspiron 5567,Notebook,16,989.99,2.07,Full HD,Intel,Core i7 7500U,2.7,0.0,2048.0,0.0,0.0,2.32,AMD,Radeon R7 M445,Windows
 1079,MSI,GS63VR 6RF,Gaming,16,1929.0,2.07,Full HD,Intel,Core i7 6700HQ,2.6,256.0,1024.0,0.0,0.0,1.8,Nvidia,GeForce GTX 1060,Windows
 1080,Dell,XPS 13,Ultrabook,8,1458.0,2.07,Full HD,Intel,Core i7 7500U,2.7,256.0,0.0,0.0,0.0,1.29,Intel,HD Graphics 620,Windows
-1081,Asus,ROG G701VO,Gaming,64,3975.0,2.07,IPS Panel Full HD,Intel,Core i7 6820HK,2.7,1024.0,0.0,0.0,0.0,3.58,Nvidia,GeForce GTX 980,Windows
 1082,Dell,Inspiron 5368,2 in 1 Convertible,8,798.01,2.07,Full HD / Touchscreen,Intel,Core i7 6500U,2.5,256.0,0.0,0.0,0.0,1.62,Intel,HD Graphics 520,Windows
 1083,Dell,Alienware 15,Gaming,16,1329.0,8.29,4K Ultra HD,Intel,Core i7 6700HQ,2.6,256.0,1024.0,0.0,0.0,3.21,Nvidia,GeForce GTX 970M,Windows
 1084,Apple,"MacBook 12""",Ultrabook,8,1300.0,3.32,IPS Panel Retina Display,Intel,Core M,1.1,0.0,0.0,256.0,0.0,0.92,Intel,HD Graphics 515,macOS
@@ -1080,7 +1063,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1093,Lenovo,V110-15ISK,Notebook,4,540.0,1.05,,Intel,Core i5 6200U,2.3,0.0,500.0,0.0,0.0,2.1,Intel,HD Graphics 520,Windows
 1094,HP,Probook 650,Notebook,4,940.0,2.07,Full HD,Intel,Core i5 6200U,2.3,0.0,500.0,0.0,0.0,2.31,Intel,HD Graphics 520,Windows
 1095,Lenovo,Yoga 900S-12ISK,Ultrabook,8,1399.0,3.69,IPS Panel Touchscreen,Intel,Core M 6Y75,1.2,512.0,0.0,0.0,0.0,0.99,Intel,HD Graphics 515,Windows
-1096,Lenovo,IdeaPad Y900-17ISK,Gaming,32,3240.0,2.07,IPS Panel Full HD,Intel,Core i7 6820HK,2.7,512.0,0.0,0.0,1024.0,4.6,Nvidia,GeForce GTX 980M,Windows
 1097,Lenovo,Yoga Book,2 in 1 Convertible,4,646.27,2.3,IPS Panel Touchscreen,Intel,Atom x5-Z8550,1.44,0.0,0.0,64.0,0.0,0.69,Intel,HD Graphics 400,Windows
 1098,HP,Spectre x360,Ultrabook,16,2049.0,8.29,IPS Panel 4K Ultra HD,Intel,Core i7 7500U,2.7,512.0,0.0,0.0,0.0,1.3,Intel,HD Graphics 620,Windows
 1099,Dell,Vostro 3568,Notebook,8,750.0,2.07,Full HD,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,2.18,Intel,HD Graphics 620,Windows
@@ -1101,7 +1083,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1114,Asus,G752VY-GC162T,Gaming,16,2299.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,128.0,1024.0,0.0,0.0,4.3,Nvidia,GeForce GTX 980M,Windows
 1115,Dell,Latitude E5270,Ultrabook,4,1135.15,1.05,,Intel,Core i3 6100U,2.3,0.0,500.0,0.0,0.0,1.5,Intel,HD Graphics 520,Windows
 1116,Dell,Latitude E5270,Ultrabook,4,1166.97,1.05,,Intel,Core i3 6100U,2.3,128.0,0.0,0.0,0.0,1.5,Intel,HD Graphics 520,Windows
-1117,Acer,Chromebook 15,Notebook,4,209.0,1.05,,Intel,Celeron Dual Core 3205U,1.5,16.0,0.0,0.0,0.0,2.2,Intel,HD Graphics,Chrome OS
 1118,HP,ZBook 17,Workstation,8,2899.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,0.0,1024.0,0.0,0.0,3.0,AMD,FirePro W6150M,Windows
 1119,Lenovo,Legion Y520-15IKBN,Gaming,16,1199.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,512.0,0.0,0.0,0.0,2.4,Nvidia,GeForce GTX 1050 Ti,Windows
 1120,Dell,Latitude E5270,Ultrabook,8,1413.1,1.05,,Intel,Core i5 6200U,2.3,256.0,0.0,0.0,0.0,1.5,Intel,HD Graphics 520,Windows
@@ -1119,7 +1100,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1132,Razer,Blade Stealth,Ultrabook,8,1029.0,8.29,Touchscreen / 4K Ultra HD,Intel,Core i7 6500U,2.5,256.0,0.0,0.0,0.0,1.25,Intel,HD Graphics 520,Windows
 1133,Toshiba,Portege X30-D-10K,Ultrabook,16,2226.0,2.07,Full HD,Intel,Core i7 7500U,2.7,512.0,0.0,0.0,0.0,1.05,Intel,HD Graphics 620,Windows
 1134,Asus,Rog GL752VW-T4308T,Gaming,8,1312.49,2.07,Full HD,Intel,Core i7 6700HQ,2.6,128.0,1024.0,0.0,0.0,3.52,Nvidia,GeForce GTX 960M,Windows
-1135,Vero,V131,Notebook,4,196.0,2.07,Full HD,Intel,Atom X5-Z8350,1.44,0.0,0.0,32.0,0.0,1.35,Intel,HD Graphics 400,Windows
 1136,HP,Spectre Pro,Notebook,8,1690.0,2.07,Full HD,Intel,Core i5 6200U,2.3,256.0,0.0,0.0,0.0,1.16,Intel,HD Graphics 520,Windows
 1137,HP,EliteBook 1040,Notebook,8,1513.0,2.07,Full HD,Intel,Core i5 6200U,2.3,256.0,0.0,0.0,0.0,1.43,Intel,HD Graphics 520,Windows
 1138,Dell,Latitude E5570,Notebook,4,523.63,1.05,,Intel,Core i5 6200U,2.3,0.0,500.0,0.0,0.0,2.09,Intel,HD Graphics 520,Linux
@@ -1135,7 +1115,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1148,HP,250 G6,Ultrabook,8,752.0,2.07,Full HD,Intel,Core i7 7500U,2.7,256.0,0.0,0.0,0.0,1.84,Intel,HD Graphics 620,Windows
 1149,Acer,Aspire E5-576G,Notebook,4,616.0,2.07,Full HD,Intel,Core i5 7200U,2.5,0.0,1024.0,0.0,0.0,2.23,Nvidia,GeForce 940MX,Windows
 1150,Lenovo,IdeaPad 500-15ISK,Notebook,16,1099.0,2.07,Full HD,Intel,Core i7 6500U,2.5,0.0,0.0,0.0,1024.0,2.5,AMD,Radeon R7 M360,Windows
-1151,HP,ZBook 17,Workstation,8,3949.4,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,256.0,0.0,0.0,0.0,3.0,Nvidia,Quadro M3000M,Windows
 1153,Dell,Inspiron 5567,Notebook,8,784.0,1.05,,Intel,Core i5 7200U,2.5,0.0,1024.0,0.0,0.0,2.5,AMD,Radeon R7 M445,Windows
 1154,MSI,GT72S Dominator,Gaming,16,2399.0,2.07,Full HD,Intel,Core i7 6820HQ,2.7,256.0,1024.0,0.0,0.0,3.78,Nvidia,GeForce GTX 980M,Windows
 1155,HP,EliteBook 850,Ultrabook,8,2171.72,2.07,Full HD,Intel,Core i7 6500U,2.5,256.0,0.0,0.0,0.0,1.88,Intel,HD Graphics 520,Windows
@@ -1214,7 +1193,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1230,MSI,GS73VR Stealth,Gaming,16,1948.99,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,256.0,1024.0,0.0,0.0,2.43,Nvidia,GeForce GTX 1060,Windows
 1231,Dell,Inspiron 7579,2 in 1 Convertible,8,999.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i5 7200U,2.5,256.0,0.0,0.0,0.0,2.191,Intel,HD Graphics 620,Windows
 1232,Asus,ROG Strix,Gaming,16,1949.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,2.9,Nvidia,GeForce GTX 1060,Windows
-1233,Acer,C740-C9QX,Netbook,2,174.0,1.05,,Intel,Celeron Dual Core 3205U,1.5,32.0,0.0,0.0,0.0,1.3,Intel,HD Graphics,Chrome OS
 1234,Acer,E5 774G,Notebook,4,598.0,1.44,,Intel,Core i3 6006U,2.0,0.0,1024.0,0.0,0.0,3.3,Nvidia,GeForce 940MX,Windows
 1235,Lenovo,IdeaPad 320-17IKB,Notebook,8,539.0,1.44,,Intel,Core i5 7200U,2.5,0.0,1024.0,0.0,0.0,2.8,Intel,HD Graphics 620,No OS
 1236,Lenovo,IdeaPad Y700-15ISK,Gaming,8,1272.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,128.0,1024.0,0.0,0.0,2.6,Nvidia,GeForce GTX 960<U+039C>,Windows
@@ -1230,7 +1208,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1246,Lenovo,IdeaPad Y700-15ISK,Gaming,16,1029.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 6700HQ,2.6,128.0,1024.0,0.0,0.0,2.6,Nvidia,GeForce GTX 960M,Windows
 1247,MSI,GL62M 7RDX,Gaming,8,1149.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,128.0,1024.0,0.0,0.0,2.2,Nvidia,GeForce GTX 1050,Windows
 1248,Lenovo,ThinkPad Yoga,Netbook,16,1650.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 6500U,2.5,512.0,0.0,0.0,0.0,1.3,Intel,HD Graphics 520,Windows
-1249,Razer,Blade Pro,Gaming,16,3499.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,1024.0,0.0,0.0,0.0,1.95,Nvidia,GeForce GTX 1060,Windows
 1250,Dell,Inspiron 3567,Notebook,8,469.01,1.05,Touchscreen,Intel,Core i3 7100U,2.4,0.0,1024.0,0.0,0.0,2.3,Intel,HD Graphics 620,Windows
 1251,MSI,GE72VR Apache,Gaming,16,1598.0,2.07,Full HD,Intel,Core i7 7700HQ,2.8,256.0,1024.0,0.0,0.0,2.7,Nvidia,GeForce GTX 1060,Windows
 1252,Apple,MacBook Air,Ultrabook,4,959.0,1.05,,Intel,Core i5,1.6,0.0,0.0,256.0,0.0,1.08,Intel,HD Graphics 6000,macOS
@@ -1267,7 +1244,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1283,Lenovo,IdeaPad Y700-15ISK,Notebook,8,899.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,0.0,1024.0,0.0,0.0,2.6,Nvidia,GeForce GTX 960M,Windows
 1284,HP,Pavilion 15-AW003nv,Notebook,6,549.99,2.07,Full HD,AMD,A9-Series 9410,2.9,0.0,0.0,0.0,1024.0,2.04,AMD,Radeon R7 M440,Windows
 1285,Dell,Inspiron 3567,Notebook,8,805.99,1.05,,Intel,Core i7 7500U,2.7,0.0,1024.0,0.0,0.0,2.3,AMD,Radeon R5 M430,Linux
-1286,HP,Stream 11-Y000na,Netbook,2,209.0,1.05,,Intel,Celeron Dual Core N3060,1.6,0.0,0.0,32.0,0.0,1.17,Intel,HD Graphics 400,Windows
 1287,Asus,X556UJ-XO044T,Notebook,4,720.32,1.05,,Intel,Core i7 6500U,2.5,0.0,500.0,0.0,0.0,2.2,Nvidia,GeForce 920M,Windows
 1288,Lenovo,Yoga 500-14ISK,2 in 1 Convertible,4,638.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 6500U,2.5,128.0,0.0,0.0,0.0,1.8,Intel,HD Graphics 520,Windows
 1289,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,16,1499.0,5.76,IPS Panel Quad HD+ / Touchscreen,Intel,Core i7 6500U,2.5,512.0,0.0,0.0,0.0,1.3,Intel,HD Graphics 520,Windows
@@ -1281,7 +1257,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1297,Lenovo,IdeaPad Y700-15ISK,Notebook,8,899.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,0.0,1024.0,0.0,0.0,2.6,Nvidia,GeForce GTX 960M,Windows
 1298,HP,Pavilion 15-AW003nv,Notebook,6,549.99,2.07,Full HD,AMD,A9-Series 9410,2.9,0.0,0.0,0.0,1024.0,2.04,AMD,Radeon R7 M440,Windows
 1299,Dell,Inspiron 3567,Notebook,8,805.99,1.05,,Intel,Core i7 7500U,2.7,0.0,1024.0,0.0,0.0,2.3,AMD,Radeon R5 M430,Linux
-1300,HP,Stream 11-Y000na,Netbook,2,209.0,1.05,,Intel,Celeron Dual Core N3060,1.6,0.0,0.0,32.0,0.0,1.17,Intel,HD Graphics 400,Windows
 1301,Asus,X556UJ-XO044T,Notebook,4,720.32,1.05,,Intel,Core i7 6500U,2.5,0.0,500.0,0.0,0.0,2.2,Nvidia,GeForce 920M,Windows
 1302,Lenovo,Yoga 500-14ISK,2 in 1 Convertible,4,638.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 6500U,2.5,128.0,0.0,0.0,0.0,1.8,Intel,HD Graphics 520,Windows
 1303,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,16,1499.0,5.76,IPS Panel Quad HD+ / Touchscreen,Intel,Core i7 6500U,2.5,512.0,0.0,0.0,0.0,1.3,Intel,HD Graphics 520,Windows
@@ -1295,7 +1270,6 @@ laptop_ID,Company,Product,TypeName,Ram,Price_euros,PixelsMP,DisplayFeatures,CpuB
 1311,Lenovo,IdeaPad Y700-15ISK,Notebook,8,899.0,2.07,IPS Panel Full HD,Intel,Core i7 6700HQ,2.6,0.0,1024.0,0.0,0.0,2.6,Nvidia,GeForce GTX 960M,Windows
 1312,HP,Pavilion 15-AW003nv,Notebook,6,549.99,2.07,Full HD,AMD,A9-Series 9410,2.9,0.0,0.0,0.0,1024.0,2.04,AMD,Radeon R7 M440,Windows
 1313,Dell,Inspiron 3567,Notebook,8,805.99,1.05,,Intel,Core i7 7500U,2.7,0.0,1024.0,0.0,0.0,2.3,AMD,Radeon R5 M430,Linux
-1314,HP,Stream 11-Y000na,Netbook,2,209.0,1.05,,Intel,Celeron Dual Core N3060,1.6,0.0,0.0,32.0,0.0,1.17,Intel,HD Graphics 400,Windows
 1315,Asus,X556UJ-XO044T,Notebook,4,720.32,1.05,,Intel,Core i7 6500U,2.5,0.0,500.0,0.0,0.0,2.2,Nvidia,GeForce 920M,Windows
 1316,Lenovo,Yoga 500-14ISK,2 in 1 Convertible,4,638.0,2.07,IPS Panel Full HD / Touchscreen,Intel,Core i7 6500U,2.5,128.0,0.0,0.0,0.0,1.8,Intel,HD Graphics 520,Windows
 1317,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,16,1499.0,5.76,IPS Panel Quad HD+ / Touchscreen,Intel,Core i7 6500U,2.5,512.0,0.0,0.0,0.0,1.3,Intel,HD Graphics 520,Windows
